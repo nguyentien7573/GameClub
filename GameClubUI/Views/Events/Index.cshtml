@@ -1,0 +1,45 @@
+﻿@model IEnumerable<GameClubUI.Models.Event>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Events for @ViewBag.ClubName</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+<body>
+    <h1>Upcoming Events for @ViewBag.ClubName</h1>
+
+    @if (!Model.Any())
+    {
+        <p>No events found for this club.</p>
+    }
+    else
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Scheduled Date/Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var evt in Model)
+                {
+                    <tr>
+                        <td>@evt.Title</td>
+                        <td>@evt.Description</td>
+                        <td>@evt.ScheduledDateTime</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <a href="/Events/CreateEvent/@ViewBag.ClubId" class="button">Add Event</a>
+    <br />
+    <br />
+    <a href="/Home/Index" class="button">Back to Clubs List</a>
+</body>
+</html>

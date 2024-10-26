@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\views\\events\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\views\\events\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\views\\clubs\\createclub.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\views\\clubs\\createclub.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\views\\clubs\\clubevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\views\\clubs\\clubevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\queue\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\queue\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\gameclubapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\gameclubapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|d:\\gameclub\\gameclubui\\wwwroot\\css\\style.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7280BA-F351-43D8-A277-7F727928F028}|GameClubUI\\GameClubUI.csproj|solutionrelative:gameclubui\\wwwroot\\css\\style.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\backgroundservices\\databasesynchronizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\backgroundservices\\databasesynchronizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\backgroundservices\\backgroundservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\backgroundservices\\backgroundservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\queue\\backgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\queue\\backgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|d:\\gameclub\\gameclubapi\\queue\\ibackgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCD95FA-3637-4D7E-8B7D-0334A6D3ABDB}|GameClubAPI\\GameClubAPI.csproj|solutionrelative:gameclubapi\\queue\\ibackgroundtaskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 416,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEvent.cshtml",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Views\\Events\\CreateEvent.cshtml",
+              "RelativeDocumentMoniker": "GameClubUI\\Views\\Events\\CreateEvent.cshtml",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Views\\Events\\CreateEvent.cshtml",
+              "RelativeToolTip": "GameClubUI\\Views\\Events\\CreateEvent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T12:14:15.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "GameClubAPI\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:57:43.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "GameClubUI\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:44:27.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClubsController.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Controllers\\ClubsController.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Controllers\\ClubsController.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Controllers\\ClubsController.cs",
+              "RelativeToolTip": "GameClubUI\\Controllers\\ClubsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:50:51.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateClub.cshtml",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Views\\Clubs\\CreateClub.cshtml",
+              "RelativeDocumentMoniker": "GameClubUI\\Views\\Clubs\\CreateClub.cshtml",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Views\\Clubs\\CreateClub.cshtml",
+              "RelativeToolTip": "GameClubUI\\Views\\Clubs\\CreateClub.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T11:53:55.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameClubUI\\Views\\Events\\Index.cshtml",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "GameClubUI\\Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T11:46:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Club.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Models\\Club.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Models\\Club.cs",
+              "RelativeToolTip": "GameClubUI\\Models\\Club.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:31:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GameClubUI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:57:27.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameClubUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAApwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:30:12.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Models\\Event.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Models\\Event.cs",
+              "RelativeToolTip": "GameClubUI\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:31:52.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClubEvents.cshtml",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Views\\Clubs\\ClubEvents.cshtml",
+              "RelativeDocumentMoniker": "GameClubUI\\Views\\Clubs\\ClubEvents.cshtml",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Views\\Clubs\\ClubEvents.cshtml",
+              "RelativeToolTip": "GameClubUI\\Views\\Clubs\\ClubEvents.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:15:16.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "GameClubUI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "GameClubUI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:55:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QueuedHostedService.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Queue\\QueuedHostedService.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\Queue\\QueuedHostedService.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Queue\\QueuedHostedService.cs",
+              "RelativeToolTip": "GameClubAPI\\Queue\\QueuedHostedService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:23:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameClubUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameClubUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:16:14.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClubsController.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Controllers\\ClubsController.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\Controllers\\ClubsController.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Controllers\\ClubsController.cs",
+              "RelativeToolTip": "GameClubAPI\\Controllers\\ClubsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:45:23.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\Program.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Program.cs",
+              "RelativeToolTip": "GameClubAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:13:37.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "GameClubUI\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "GameClubUI\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T11:39:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameClubAPI.http",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\GameClubAPI.http",
+              "RelativeDocumentMoniker": "GameClubAPI\\GameClubAPI.http",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\GameClubAPI.http",
+              "RelativeToolTip": "GameClubAPI\\GameClubAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T12:52:42.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\Program.cs",
+              "RelativeDocumentMoniker": "GameClubUI\\Program.cs",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\Program.cs",
+              "RelativeToolTip": "GameClubUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:35:36.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GameClub\\GameClubUI\\appsettings.json",
+              "RelativeDocumentMoniker": "GameClubUI\\appsettings.json",
+              "ToolTip": "D:\\GameClub\\GameClubUI\\appsettings.json",
+              "RelativeToolTip": "GameClubUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:57:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GameClubAPI\\appsettings.json",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\appsettings.json",
+              "RelativeToolTip": "GameClubAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:05:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameClubAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameClubAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:05:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BackgroundServices.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\BackgroundServices\\BackgroundServices.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\BackgroundServices\\BackgroundServices.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\BackgroundServices\\BackgroundServices.cs",
+              "RelativeToolTip": "GameClubAPI\\BackgroundServices\\BackgroundServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:36:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseSynchronizer.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\BackgroundServices\\DatabaseSynchronizer.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\BackgroundServices\\DatabaseSynchronizer.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\BackgroundServices\\DatabaseSynchronizer.cs",
+              "RelativeToolTip": "GameClubAPI\\BackgroundServices\\DatabaseSynchronizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:30:59.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BackgroundTaskQueue.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Queue\\BackgroundTaskQueue.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\Queue\\BackgroundTaskQueue.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Queue\\BackgroundTaskQueue.cs",
+              "RelativeToolTip": "GameClubAPI\\Queue\\BackgroundTaskQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:14:33.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBackgroundTaskQueue.cs",
+              "DocumentMoniker": "D:\\GameClub\\GameClubAPI\\Queue\\IBackgroundTaskQueue.cs",
+              "RelativeDocumentMoniker": "GameClubAPI\\Queue\\IBackgroundTaskQueue.cs",
+              "ToolTip": "D:\\GameClub\\GameClubAPI\\Queue\\IBackgroundTaskQueue.cs",
+              "RelativeToolTip": "GameClubAPI\\Queue\\IBackgroundTaskQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:09:59.26Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

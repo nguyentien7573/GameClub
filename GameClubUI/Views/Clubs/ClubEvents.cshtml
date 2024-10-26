@@ -1,0 +1,49 @@
+﻿@model IEnumerable<GameClubUI.Models.Event>
+@{
+    var clubId = Context.Request.Query["clubId"];
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events for Club @ViewBag.ClubName</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Upcoming Events for Club @ViewBag.ClubName</h1>
+
+        @if (!Model.Any())
+        {
+            <p>No events found for this club.</p>
+        }
+        else
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Scheduled Date/Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var evt in Model)
+                    {
+                        <tr>
+                            <td>@evt.Title</td>
+                            <td>@evt.Description</td>
+                            <td>@evt.ScheduledDateTime</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        <a href=@Url.Action("CreateEvent", "Events", new { clubId = clubId }) class="btn btn-success">Add Event</a>
+        <br /><br />
+        <a href="/Home/Index" class="btn btn-secondary">Back to Clubs List</a>
+    </div>
+
+</body>
+</html>

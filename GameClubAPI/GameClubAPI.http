@@ -1,0 +1,6 @@
+@GameClubAPI_HostAddress = http://localhost:5207
+
+GET {{GameClubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

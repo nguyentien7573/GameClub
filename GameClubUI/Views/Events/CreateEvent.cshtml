@@ -1,0 +1,36 @@
+﻿@model GameClubUI.Models.Event
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Create Event for @ViewBag.ClubName</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+<body>
+  
+    <h1>Create a New Event for @ViewBag.ClubName</h1>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>Warning!</strong> @TempData["Error"]
+        </div>
+    }
+    <form method="post" asp-action="CreateEvent" asp-route-clubId="@Context.Request.Query["clubId"]" onsubmit="disableSubmitButton()">
+        <label for="Title">Event Title:</label>
+        <input type="text" id="Title" name="Title" value="@Model?.Title" required />
+        <br />
+        <label for="Description">Description:</label>
+        <textarea id="Description" name="Description" required>@Model?.Description</textarea>
+        <br />
+        <label for="ScheduledDateTime">Scheduled Date/Time:</label>
+        <input type="datetime-local" id="ScheduledDateTime" name="ScheduledDateTime" value="@Model?.ScheduledDateTime.ToString("yyyy-MM-ddTHH:mm")" required />
+        <br />
+        <button type="submit" class="button">Create Event</button>
+    </form>
+
+    <br />
+    <a href="@Url.Action("ClubEvents", "Clubs", new { clubId = @Context.Request.Query["clubId"] })" class="button">Back to Events</a>
+</body>
+</html>

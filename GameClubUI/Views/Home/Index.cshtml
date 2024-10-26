@@ -1,0 +1,43 @@
+﻿@model IEnumerable<GameClubUI.Models.Club>
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Game Clubs</title>
+</head>
+<body>
+    <h1>List of Game Clubs</h1>
+
+    <form method="post" action="/Home/Index" class="search-form">
+        <input type="text" name="searchTerm" placeholder="Search clubs..." value="@Context.Request.Query["searchTerm"]" />
+        <button type="submit">Search</button>
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var club in Model)
+            {
+                <tr>
+                    <td>@club.Name</td>
+                    <td>@club.Description</td>
+                    <td>
+                        <a href="@Url.Action("ClubEvents", "Clubs", new { clubId = club.Id })">View Events</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="/Clubs/CreateClub">Create New Club</a>
+</body>
+</html>
