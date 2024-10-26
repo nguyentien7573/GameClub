@@ -2,7 +2,7 @@
 ## Demo Video
 Watch the demo video on YouTube : https://youtu.be/49y_oukYuPs
 
-
+![Application Flow Diagram]([images/diagram.png](https://github.com/nguyentien7573/GameClub/blob/main/Diagram.png))
 
 ## **Overview**
 This project is a **Game Club API and MVC application** designed to manage game clubs and events efficiently. The application allows users to:
