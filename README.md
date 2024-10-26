@@ -1,7 +1,7 @@
 # **Game Club API & MVC Application**
 ## Demo Video
 Watch the demo video on YouTube : https://youtu.be/49y_oukYuPs
-
+## Application Flow Diagram
 ![Application Flow Diagram](https://github.com/nguyentien7573/GameClub/blob/main/Diagram.png)
 
 
